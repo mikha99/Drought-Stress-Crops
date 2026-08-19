@@ -1,0 +1,15 @@
+Status	control/SRR11176511_sorted.bam	control/SRR11176512_sorted.bam	control/SRR11176513_sorted.bam	control/SRR11176514_sorted.bam	Treatment/SRR11176515_sorted.bam	Treatment/SRR11176516_sorted.bam	Treatment/SRR11176517_sorted.bam	Treatment/SRR11176518_sorted.bam
+Assigned	28396725	25120054	25394600	25207867	25734894	23669167	22486787	23426904
+Unassigned_Unmapped	1845809	1622515	1613707	1454194	1903716	1852256	1786867	7497346
+Unassigned_Read_Type	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	3523278	3050798	3147457	1934761	3729271	3585381	2922813	3099280
+Unassigned_Secondary	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	1888011	1374898	1658764	1352982	2186193	1784561	1918816	1594754
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	5109776	4912012	4641170	4899652	4632914	4337515	3990831	4303366
